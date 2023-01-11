@@ -1,2 +1,2 @@
 function sayHi () {
-alert("hello world");
+alert("bye world");
